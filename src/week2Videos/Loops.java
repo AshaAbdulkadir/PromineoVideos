@@ -43,12 +43,10 @@ public class Loops {
 		} while (x<2);
 		
 		
+		//enhanced for loop - performs an iteration for each item in a collection eg grocery list, bill, - use of each item
 		
 		
-		
-		
-		
-		
+
 		
 		
 	}
