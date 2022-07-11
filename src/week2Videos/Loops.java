@@ -7,9 +7,9 @@ public class Loops {
 		//for loops for if you know how many time you want to iterate - know numbers 
 		// ++ increment by 1
 		for (int i = 0; i < 10; i++) {
-			//System.out.println("Scoop cup of flour"); -  prints 10 times
+			//System.out.println("Scoop cup of flour"); -  prints 10 times java counts from 0
 			
-			System.out.println(i); //prints numbers out to 9 
+			System.out.println(i); //prints numbers out to 9 starting at 0
 			
 		}
 		
