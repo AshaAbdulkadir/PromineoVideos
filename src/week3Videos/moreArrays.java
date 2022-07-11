@@ -25,7 +25,7 @@ public class moreArrays {
 		int[] multiplesOf5 = new int[10];
 		
 		for (int i =0; i< multiplesOf5.length; i++) {
-			multiplesOf5[i] = i * 5;
+			multiplesOf5[i] = i * 5; // (i+1) *5 if you need it to start at 5 instead of at 0 and outputs 10 values till 50 instead of 45
 			System.out.println(multiplesOf5[i]);
 		}
 		
