@@ -16,6 +16,7 @@ public class Methods {
 		System.out.println(fullName2);
 
 	}
+	// methods do not do anything- they are instructions that's why it has to be called like in above or invoked 
 	//method signature, includes:
 	//public static- for all methods for now
 	//String- return type string / void -to return nothing 
