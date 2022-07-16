@@ -25,17 +25,6 @@ public class Equality {
 		System.out.println(d);
 		System.out.println(c == d);
 		
-
-		int x = 100;
-		int y = 5;
-		
-		if (x < 100 && y > 1) {
-			while(x > y ) {
-			System.out.println();
-			x--;
-		} else {
-			System.out.println("Your loop did not run.");
-		}
 		
 		
 	}
