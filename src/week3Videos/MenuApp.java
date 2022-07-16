@@ -51,8 +51,8 @@ public static void deleteAllTeamMembers(String[] team) {
 	
 public static void deleteTeamMember(String[] team) {
 	System.out.println("Which team member would you like to delete?");
-	int memeberToDelete = s.nextInt();
-	if (isValid(memeberToDelete)) {
+	int memberToDelete = s.nextInt();
+	if (isValid(memberToDelete)) {
 		team[memberToDelete] = null;
 	}
 }
